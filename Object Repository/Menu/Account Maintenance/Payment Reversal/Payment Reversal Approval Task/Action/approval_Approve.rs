@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>approval_Approve</name>
+   <tag></tag>
+   <elementGuidId>bc811929-13ad-4c97-9adb-bfe7aaef62e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[.='Approve']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>10d1e184-c89d-47f6-ae4d-4a6b5b179dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='Approve']</value>
+      <webElementGuid>49de4260-c326-4ed3-9ec7-0d35dc4880e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='Approve']</value>
+      <webElementGuid>3d009dd4-e59f-44d6-85b0-744dd586e891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frame path</name>
+      <type>Main</type>
+      <value>iframe[id='mainPage']</value>
+      <webElementGuid>e29fb436-5947-45c3-803b-4f94c5939a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Payment Reversal/Payment Reversal Approval Task/iframe_Welcome, Djunaidy, KEDOYA, BRANCH OPERATIONS SUPERVISOR_mainPage</value>
+      <webElementGuid>b5905364-0bf0-4744-a711-fdb200432867</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List status OpenClose</name>
+   <tag></tag>
+   <elementGuidId>62b69f5e-8f84-4577-b269-6c88628d5ef7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ddlCashierStatus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ddlCashierStatus']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id = 'ddlCashierStatus' and @ref_element = 'Object Repository/Menu/Account Maintenance/Open Cashier/Page_New Confins - Main/iframe_Welcome, Djunaidy, KEDOYA_mainPage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1cecf433-db60-4540-8c02-6af9f715de54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ddlCashierStatus</value>
+      <webElementGuid>093b0b04-9067-4877-8b59-f1be6317ab9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ddlCashierStatus</value>
+      <webElementGuid>d3fdfd1a-1dc6-4c02-8545-eb7f7c9d8775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ddlMedStyle</value>
+      <webElementGuid>21aae600-c92a-49b5-a769-1756402d8f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Open
+		Close
+
+	</value>
+      <webElementGuid>42b386eb-9703-4241-8260-6d2db6668c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ddlCashierStatus&quot;)</value>
+      <webElementGuid>91aecbcb-f71e-43ab-80f1-69410110127f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Open Cashier/Page_New Confins - Main/iframe_Welcome, Djunaidy, KEDOYA_mainPage</value>
+      <webElementGuid>d5657b45-9d9e-46c8-af9d-5d0b001cb9a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ddlCashierStatus']</value>
+      <webElementGuid>ae1e39f0-451a-4f30-97e6-4ad1a527e83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dCashierHistGrid']/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>e428a864-06aa-45c6-885e-dfb4d205cbd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashier Status'])[1]/following::select[1]</value>
+      <webElementGuid>7778197b-8135-4618-834c-84d55619cafc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashier List'])[1]/following::select[1]</value>
+      <webElementGuid>3421d98d-ec47-4786-a16b-93c8bb2d3b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh'])[1]/preceding::select[1]</value>
+      <webElementGuid>4b08a0bd-b3ab-4637-a435-cdbd6be2d3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refresh Grid'])[1]/preceding::select[1]</value>
+      <webElementGuid>4f409b13-906a-4cd3-aafd-22f80d69aff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>a647ab71-d21e-4741-9346-e561fc7239ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'ddlCashierStatus' and @id = 'ddlCashierStatus' and (text() = '
+		Open
+		Close
+
+	' or . = '
+		Open
+		Close
+
+	')]</value>
+      <webElementGuid>81474707-6b56-4db8-8deb-64c6893ce2d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

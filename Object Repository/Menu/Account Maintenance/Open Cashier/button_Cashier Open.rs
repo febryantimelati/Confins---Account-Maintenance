@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cashier Open</name>
+   <tag></tag>
+   <elementGuidId>115f6ee8-cefd-4e7e-866a-00048990d577</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#lbCashierOpen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='lbCashierOpen']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'lbCashierOpen' and @ref_element = 'Object Repository/Menu/Account Maintenance/Open Cashier/iframe_Welcome, KEDOYA_mainPage']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4159485a-c80c-4ed2-91ae-26fc71931060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lbCashierOpen</value>
+      <webElementGuid>8c50802d-6f12-40a7-ba01-8474e3771d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnForm</value>
+      <webElementGuid>ff4e4e0d-7cc7-4ebb-bab4-901068e8c312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lbCashierOpen&quot;, &quot;&quot;, true, &quot;vgOpen&quot;, &quot;&quot;, false, true))</value>
+      <webElementGuid>f992bccd-6f14-4120-ba8e-1940b9255bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cashier Open</value>
+      <webElementGuid>71ae4d2e-c4c4-43ce-8ae0-513064723618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lbCashierOpen&quot;)</value>
+      <webElementGuid>3e877d09-03fc-4e22-805a-a00b7ebfbd39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Open Cashier/iframe_Welcome, KEDOYA_mainPage</value>
+      <webElementGuid>fd64855a-26c2-480c-ba53-6c19e99d07a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='lbCashierOpen']</value>
+      <webElementGuid>5f6f1edb-1679-4fa3-a303-64eb1f91db87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dOpenCashier']/table/tbody/tr[3]/td[4]/a</value>
+      <webElementGuid>fa55baf9-24e6-4890-a143-61933080a067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cashier Open')]</value>
+      <webElementGuid>40b30142-5005-4d27-b2e9-07d6bacade4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Head Cashier Balance'])[1]/following::a[1]</value>
+      <webElementGuid>b1808142-77cc-481b-89f5-005bb017d807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::a[1]</value>
+      <webElementGuid>25b32993-d731-4151-a5e0-63ff7fff9bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[-]'])[2]/preceding::a[1]</value>
+      <webElementGuid>5681c00f-a644-43ae-85e5-bc602564a129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cashier List'])[1]/preceding::a[2]</value>
+      <webElementGuid>f2c06055-694b-4174-8654-9225c29a3f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cashier Open']/parent::*</value>
+      <webElementGuid>59e2d70e-219c-404f-ad2f-ebe8c652966a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lbCashierOpen&quot;, &quot;&quot;, true, &quot;vgOpen&quot;, &quot;&quot;, false, true))')]</value>
+      <webElementGuid>a09c032b-62e7-442e-8108-7c10a04e04d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/a</value>
+      <webElementGuid>0525fc2f-e5fb-4cc3-8957-6eb50ed8c947</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'lbCashierOpen' and @href = 'javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;lbCashierOpen&quot;, &quot;&quot;, true, &quot;vgOpen&quot;, &quot;&quot;, false, true))' and (text() = 'Cashier Open' or . = 'Cashier Open')]</value>
+      <webElementGuid>bb3b0c55-bd24-4de8-b09c-ce7d49e42d43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

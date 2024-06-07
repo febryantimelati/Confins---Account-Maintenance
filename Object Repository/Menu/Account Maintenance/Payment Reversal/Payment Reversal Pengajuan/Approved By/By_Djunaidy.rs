@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>By_Djunaidy</name>
+   <tag></tag>
+   <elementGuidId>d184ac33-563b-45d1-8e80-fce7b1172c54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//option[.='46120912 - Djunaidy'][count(. | //option[@ref_element = 'Object Repository/Menu/Account Maintenance/Payment Reversal/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage']) = count(//option[@ref_element = 'Object Repository/Menu/Account Maintenance/Payment Reversal/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>9ad35d5f-c75a-4fde-bda8-2b009c23efe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='2002780']</value>
+      <webElementGuid>799f2e0d-ebc4-4626-b68c-4fea76e5e33e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[.='46120912 - Djunaidy']</value>
+      <webElementGuid>5bc70c80-9b77-4a40-a4de-9843820de3c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frame path</name>
+      <type>Main</type>
+      <value>iframe[id='mainPage']</value>
+      <webElementGuid>a5a136a1-d583-48d0-82df-7f03766cc73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Payment Reversal/Payment Reversal Pengajuan/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage</value>
+      <webElementGuid>0163769c-f853-4ada-927a-d5e423ca804a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

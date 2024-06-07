@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Reason Description_SALAH INPUT</name>
+   <tag></tag>
+   <elementGuidId>aecbaada-0fff-47c2-9cd2-1c1489494a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>[value='368']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>e975cd1a-2896-4223-97cd-27ea496c52af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='368']</value>
+      <webElementGuid>70e0eadd-3a57-4ace-b812-10b762447e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[contains(.,'SALAH INPUT')]</value>
+      <webElementGuid>fbc37e8c-668c-4857-bd26-20b66b7a3016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frame path</name>
+      <type>Main</type>
+      <value>iframe[id='mainPage']</value>
+      <webElementGuid>c123fa34-1b48-48bc-bd6e-484f5e681056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Payment Reversal/Payment Reversal Pengajuan/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage</value>
+      <webElementGuid>5d774442-432b-40c9-9fcc-47bc307029df</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

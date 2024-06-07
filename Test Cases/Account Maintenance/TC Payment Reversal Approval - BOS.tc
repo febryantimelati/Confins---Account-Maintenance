@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Payment Reversal Approval - BOS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c05d9154-948a-4628-8a71-b79844a14049</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_IDR 1,627,500.00</name>
+   <tag></tag>
+   <elementGuidId>46b256c3-0cb6-44a8-8ba4-f49e7eeb2237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ucAgrmntInfo_lbInstAmt']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id = 'ucAgrmntInfo_lbInstAmt' and @ref_element = 'Object Repository/Menu/Cashier/Payment Receive/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage (1)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ucAgrmntInfo_lbInstAmt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5c389b51-4841-48b8-8f1b-d31fee72729d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ucAgrmntInfo_lbInstAmt</value>
+      <webElementGuid>ca1fc026-d9ff-44be-8132-075ab170bc3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:__doPostBack('ucAgrmntInfo$lbInstAmt','')</value>
+      <webElementGuid>daec2dc2-789c-4786-b506-9ed771331107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IDR 1,627,500.00</value>
+      <webElementGuid>7543945c-be7c-475e-8cf9-ebd1f2daebb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ucAgrmntInfo_lbInstAmt&quot;)</value>
+      <webElementGuid>c97ebc7c-8093-44ba-bf5d-2240091a306d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Payment Receive/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage (1)</value>
+      <webElementGuid>0cf060a1-d579-4b71-87a5-d0e78df14682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ucAgrmntInfo_lbInstAmt']</value>
+      <webElementGuid>4006750d-0eda-4d7a-9d10-9b0f81ece433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dAgrmntInfo']/table/tbody/tr[2]/td[4]/a</value>
+      <webElementGuid>d68f2e82-78ba-45a6-bf14-f65f92e23287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'IDR 1,627,500.00')]</value>
+      <webElementGuid>df0fa2e8-1970-4b15-9219-45f90553b820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installment Amount'])[1]/following::a[1]</value>
+      <webElementGuid>6c55dfeb-7fbd-4ae1-943f-57d5adeac480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HO HENDY'])[1]/following::a[1]</value>
+      <webElementGuid>9434c3c9-b0ee-4950-a2a9-2e3d06377651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IDR 1,627,500.00']/parent::*</value>
+      <webElementGuid>271de647-49f5-4494-95e3-40aedeacb9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:__doPostBack('ucAgrmntInfo$lbInstAmt','')&quot;)]</value>
+      <webElementGuid>01d1f8ed-aec6-48a5-92f0-54abaf76ba30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/a</value>
+      <webElementGuid>7d1f69ad-d553-45ec-a305-2d066b96d687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ucAgrmntInfo_lbInstAmt' and @href = concat(&quot;javascript:__doPostBack(&quot; , &quot;'&quot; , &quot;ucAgrmntInfo$lbInstAmt&quot; , &quot;'&quot; , &quot;,&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;)&quot;) and (text() = 'IDR 1,627,500.00' or . = 'IDR 1,627,500.00')]</value>
+      <webElementGuid>43890d10-4227-4977-93a7-d731a37c2093</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

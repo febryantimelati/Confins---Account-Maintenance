@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Konek DB_Param</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6cb0331b-08d6-471d-ac82-250829bf9d70</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password></password>
+   <query>select top 1 RECEIPT_FORM_NO from RECEIPT_FORM A&#xd;
+inner join ref_user B on b.REF_EMP_ID = A.ASSIGN_REF_EMP_ID&#xd;
+where 1=1&#xd;
+and receipt_form_stat='assign'&#xd;
+and username='51701212'&#xd;
+and ref_office_id='3'</query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <user></user>
+   <usingGlobalDBSetting>true</usingGlobalDBSetting>
+</DataFileEntity>

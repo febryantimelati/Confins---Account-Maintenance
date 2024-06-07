@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Reason Description_SALAH ALOKASI KONTRAK</name>
+   <tag></tag>
+   <elementGuidId>0d56a0a1-43d3-4c1a-a4bf-bbd06ef61735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>[value='369']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>0d5bebae-3aa5-4141-9500-cc6e9fcf461a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>[value='369']</value>
+      <webElementGuid>60865fad-619c-47b0-bbf3-44fef7ff96d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//option[contains(.,'SALAH ALOKASI KONTRAK')]</value>
+      <webElementGuid>8f3c1607-46fe-4965-9407-a890139cd4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frame path</name>
+      <type>Main</type>
+      <value>iframe[id='mainPage']</value>
+      <webElementGuid>a4a1f32b-9614-4349-811a-99db1fb48409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Menu/Account Maintenance/Payment Reversal/Payment Reversal Pengajuan/iframe_Welcome, Lelita Deviyanti, KEDOYA, Cashier_mainPage</value>
+      <webElementGuid>daaebbf4-6f28-486c-9618-477083b9007d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
